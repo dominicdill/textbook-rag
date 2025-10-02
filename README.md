@@ -1,4 +1,5 @@
 # **Textbook RAG System**
+[![Click to watch the full video](https://img.youtube.com/vi/ZJU5ADZGhzg/hqdefault.jpg)](https://youtu.be/ZJU5ADZGhzg)
 
 This repository provides a Retrieval-Augmented Generation (RAG) system designed to answer questions based on the content of a collection of PDF documents. The system processes, stores, and retrieves information from PDFs to generate context-aware responses to user queries.
 
