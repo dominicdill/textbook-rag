@@ -1,0 +1,19 @@
+name: textbook-rag
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - conda-forge::pydantic
+  - conda-forge::pydantic-settings
+  - conda-forge::loguru
+  - conda-forge::psycopg
+  - conda-forge::ipython
+  - conda-forge::openai
+  - psycopg-pool
+  - ipykernel
+  - conda-forge::matplotlib
+  - ipywidgets
+  - conda-forge::rich
+  - conda-forge::streamlit
+prefix: /home/ddd/miniconda3/envs/textbook-rag
